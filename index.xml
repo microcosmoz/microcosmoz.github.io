@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>Copyright (c) 2008 - 2014, all rights reserved.</copyright>
-    <lastBuildDate>Sat, 05 May 2018 22:11:27 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 05 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://microcosmoz.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,10 @@
     <item>
       <title>About This Blog</title>
       <link>https://microcosmoz.github.io/post/00/about/</link>
-      <pubDate>Sat, 05 May 2018 22:11:27 +0900</pubDate>
+      <pubDate>Sat, 05 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://microcosmoz.github.io/post/00/about/</guid>
-      <description>About Me ・非エンジニア＠つくば ・GitHub ・Twitter 気になる技術について書いていきます。 言語はこの辺り使ってます。 ・C++ ・Python</description>
+      <description>About Me ・非エンジニア＠つくば ・GitHub ・Twitter 趣味としてのプログラミング、宇宙開発、文芸に関することを書きたい。 使える言語 ・C++</description>
     </item>
     
     <item>
